@@ -1,6 +1,4 @@
 import * as firebase from 'firebase';
-import { PureComponent } from 'react';
-import moment from 'moment';
 
 const config = {
     apiKey: process.env.FIREBASE_API_KEY,
