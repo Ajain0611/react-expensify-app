@@ -35,7 +35,6 @@ export { firebase, database as default };
 // database.ref('expenses').on('child_changed', (snapshot) => {
 //     console.log(snapshot.key, snapshot.val());
 // });
-
 // database.ref('expenses').push({
 //     description: 'Credit Card',
 //     note: '',
